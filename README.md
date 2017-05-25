@@ -4,6 +4,8 @@ Atoms are small, modular blocks with preset scripting that enable you to add ele
 
 ## Installing the Atom
 
+Before installing and using the Atom, it is suggested you temporarily enable [`Development Mode`](http://docs.gantry.org/gantry5/configure/extras)
+
 1. Open the folder of your active Gantry theme. For example, if you are using the Hydrogen theme open the folder `/user/themes/g5_hydrogen`.
 2. If a `custom` folder already exists open it, otherwise create it.
 3. If a `particles` folder already exists within the `custom` folder open it, otherwise create it.
